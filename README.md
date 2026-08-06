@@ -1,0 +1,2 @@
+# Tendencias_CienciaComputacao_2026_2
+Atividades práticas 
