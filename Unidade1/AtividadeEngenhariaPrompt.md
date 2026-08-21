@@ -60,9 +60,3 @@ S = \frac{50 \cdot (2 + 100)}{2} = 2550
 - PYTHON SOFTWARE FOUNDATION. *Python Documentation*. 2026.  
   Disponível em: [https://docs.python.org/3/](https://docs.python.org/3/)
 ```
-
----
-
-✨ Esse arquivo já está pronto para ser salvo como `README.md` e enviado para o GitHub.  
-
-Quer que eu te mostre também como criar um **repositório no GitHub** e subir esse arquivo passo a passo?
